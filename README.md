@@ -1,1 +1,1 @@
-# tkh-phase_one_project
+# tkh-phase-one-project
